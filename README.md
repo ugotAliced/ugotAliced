@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ugotAliced
 - 🌹 I’m a UX designer learning to became a product manager or deisgn engineer
-- 🌱 I’m currently learning everything froom React to Cloud
-- 🧗 Fun fact: I've been climbing for 6 years and still love it!
+- 🌱 I’m currently learning everything from React to Cloud
+- 🧗 Fun fact: I've been climbing for 7 years and in 7 countries!
 
 <!---
 ugotAliced/ugotAliced is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
